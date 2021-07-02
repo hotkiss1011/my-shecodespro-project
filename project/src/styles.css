@@ -1,0 +1,110 @@
+body {
+  text-align: center;
+  font-family: "Public Sans", sans-serif;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+h1 {
+  position: fixed;
+  background: rgb(255, 255, 255);
+  top: 0;
+  margin: 0;
+  padding: 15px 0;
+  width: 100%;
+  left: 0px;
+  z-index: 9999;
+}
+
+h2 {
+  position: relative;
+  top: 10px;
+  display: block;
+}
+
+h3 {
+  position: relative;
+  top: 20px;
+}
+
+.cloud {
+  font-size: 80px;
+  color: #9e9e9e;
+  position: relative;
+  width: 100%;
+  top: 55px;
+  left: 0;
+}
+
+.smile {
+  position: relative;
+  font-size: 60px;
+  color: grey;
+  width: 100%;
+  left: 0px;
+  top: -44px;
+}
+
+.currEmoji {
+  color: rgb(255, 225, 0);
+  font-size: 50px;
+}
+
+.cards {
+  margin: 20px;
+}
+
+.high {
+  font-size: 30px;
+}
+
+.low {
+  font-size: 25px;
+}
+
+.sky {
+  position: fixed;
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+  left: 0px;
+}
+
+.rain {
+  font-size: 40px;
+  color: grey;
+}
+
+.thunder {
+  font-size: 40px;
+  color: yellow;
+}
+
+.row {
+  position: relative;
+  display: block;
+  top: 50px;
+}
+
+.date {
+    position: relative;
+    top: 190px;
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+form {
+    position: fixed;
+    top: 80px;
+    width: 100%;
+    left: 0px;
+    z-index: 9999;
+}
+
+button {
+  position: relative;
+  background-color: #d8d8d8;
+  top: 120px;
+  left: 0px;
+}
